@@ -25,17 +25,17 @@ grouped by event date and opponent.
 
 2. Via query, create an additional column named ‘bowl_level’ based on the following constraints:
 
-a. Any section_name starting with FLR is labeled as ‘Floor’
+    a. Any section_name starting with FLR is labeled as ‘Floor’
 
-b. Any section_name starting with VIP is labeled as ‘VIP’
+    b. Any section_name starting with VIP is labeled as ‘VIP’
 
-c. Any section_name that is in the lower level (single and double digit section_names) are
+    c. Any section_name that is in the lower level (single and double digit section_names) are
 labeled as ‘Lower’
 
-d. Any section_name that is in the middle level (triple digit section_names starting with 1)
+    d. Any section_name that is in the middle level (triple digit section_names starting with 1)
 are labeled as ‘Middle’
 
-e. Any section_name that is in the upper level (triple digit section_names starting with 2)
+    e. Any section_name that is in the upper level (triple digit section_names starting with 2)
 are labeled as ‘Upper’
 
 
