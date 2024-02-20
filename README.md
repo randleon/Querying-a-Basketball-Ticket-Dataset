@@ -1,7 +1,7 @@
 ## Basketball SQL Test -These are the questions I answered about the basketball ticket data set using SQL
 
 
-- Data Dictionary
+Data Dictionary
 o event_date – date of the event; date
 
 o opponent – opposing team played during event; text
