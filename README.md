@@ -1,4 +1,4 @@
-## Basketball SQL Test -These are the questions I answered about the basketball ticket data set using SQL
+## Basketball Tickets SQL Test
 
 
 Data Dictionary
