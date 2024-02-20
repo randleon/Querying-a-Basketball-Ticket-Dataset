@@ -19,6 +19,7 @@ o sale_price – price that the seat sold for; currency(in USD $)
 
 
 
+
 1. Write a query that calculates the sum of seats sold, sum of revenue and average sale price,
 grouped by event date and opponent.
 
@@ -41,13 +42,21 @@ are labeled as ‘Upper’
 3. Write a query that calculates the sum of seats sold, min sale price, max sale price, and average
 sale price, grouped by sale date and bowl_level, for any one event date in the data set. (the
 event date does not matter)
+
+
 4. Write a query that calculates the total sum of seats sold, sum of seats sold within 7 days of the
 event, and the sum of seats sold the day of the event, grouped by event date and opponent.
+
+
 5. Via query, create an additional column named ‘days_out_grouping’ that calculates categorical
 groupings for how many days before an event a sale took place. The specifics of the groupings
 are up to the user but they should serve to help sales analysis.
+
+
 6. Write a query that calculates the sum of seats sold, sum of revenue, min sale price, max sale
 price, and average sale price, grouped by days_out_grouping, for the event date used in
 question 4.
+
+
 7. Via query, create an additional column named ‘transaction_id’ that creates a transaction
 number for seats that were bought together as one purchase
