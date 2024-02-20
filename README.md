@@ -2,6 +2,7 @@
 
 
 Data Dictionary
+
 o event_date – date of the event; date
 
 o opponent – opposing team played during event; text
